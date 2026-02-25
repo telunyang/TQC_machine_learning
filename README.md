@@ -14,9 +14,9 @@ TQC+ 人工智慧：機器學習
 - [TQC/TQC+場次資訊](https://exam.csf.org.tw/examinee/tqcinfo)
 
 ## 認證方式
-- 本認證為操作題，總分為100分。
-- 操作題為第一至三類各考一題共三大題十二小題，第一大題至第二大題每題30分，第三大題40分，總計100分。
-- 於認證時間60分鐘內作答完畢，成績加總達70分（含）以上者該科合格。
+- 本認證為操作題，總分為 100 分。
+- 操作題為第一至三類各考一題共三大題十二小題，第一大題至第二大題每題 30 分，第三大題 40 分，總計 100 分。
+- 於認證時間 60 分鐘內作答完畢，成績加總達 70 分（含）以上者該科合格。
 
 ## 測驗對象
 - TQC+ 人工智慧：機器學習 Python 3 認證之測驗對象，為從事軟體設計相關工作 1 至 2 年之社會人士，或是受過軟體設計領域之專業訓練，欲進入該領域就職之人員。
@@ -39,3 +39,10 @@ TQC+ 人工智慧：機器學習
 - 確認測試環境存在後，點選 `Home`，在 `ml_env` 的環境下，點選 `Spyder` 的 `Launch` 按鈕，啟動 Spyder 編輯器
 - 考試會使用 Spyder 編輯器，請熟悉 Spyder 的使用方式
 - 注意：如果 Anaconda Navigator 詢問是否更新，請選擇 `No, don't show again`，以免影響測試環境
+
+## 其它
+- 考試心得
+  - [皮卡丘 isu9905005a -【TQC證照】人工智慧：機器學習](https://home.gamer.com.tw/artwork.php?sn=6101008)
+- 其他人分享的考試解答
+  - [Yiru@Studio - 點選右邊系列文章「TQC+Python-人工智慧-機器學習 (14)」](https://www.dotblogs.com.tw/YiruAtStudio/Series?qq=TQC%2BPython-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92)
+  - [ChienMing Lin - TQC_AI_Licence](https://github.com/babymlin/TQC_AI_Licence)
