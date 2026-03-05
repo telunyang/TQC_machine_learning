@@ -46,3 +46,6 @@ TQC+ 人工智慧：機器學習
 - 其他人分享的考試解答
   - [Yiru@Studio - 點選右邊系列文章「TQC+Python-人工智慧-機器學習 (14)」](https://www.dotblogs.com.tw/YiruAtStudio/Series?qq=TQC%2BPython-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92)
   - [ChienMing Lin - TQC_AI_Licence](https://github.com/babymlin/TQC_AI_Licence)
+
+## 證照樣式
+![](./images/cert03.jpg)
